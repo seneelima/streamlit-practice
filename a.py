@@ -3,3 +3,4 @@ print("Awesome")
 
 print("Hi Dev")
 print("Good Boy")
+print('hi')
