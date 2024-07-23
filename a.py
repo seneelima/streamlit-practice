@@ -1,5 +1,5 @@
-print("Hello World")
-print("Awesome")
 
-print("Hi Dev")
-print("Good Boy")
+import streamlit as st
+import numpy as np
+st.title('Great job!!!')
+pip install streamlit
